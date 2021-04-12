@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/akmaral/akmaral_NorLab/AlgorithmAnalysis/TP1/multiplication/grandentier.cpp
+grandentier.hpp
+/home/akmaral/akmaral_NorLab/AlgorithmAnalysis/TP1/multiplication/grandentier.hpp
+algorithm
+-
+assert.h
+-
+iostream
+-
+
+/home/akmaral/akmaral_NorLab/AlgorithmAnalysis/TP1/multiplication/grandentier.hpp
+string
+-
+vector
+-
+
+/home/akmaral/akmaral_NorLab/AlgorithmAnalysis/TP1/multiplication/multiplication.cpp
+grandentier.hpp
+/home/akmaral/akmaral_NorLab/AlgorithmAnalysis/TP1/multiplication/grandentier.hpp
+iostream
+-
+cmath
+-
+algorithm
+-
+
+/home/akmaral/akmaral_NorLab/AlgorithmAnalysis/TP1/multiplication/tests.cpp
+grandentier.hpp
+/home/akmaral/akmaral_NorLab/AlgorithmAnalysis/TP1/multiplication/grandentier.hpp
+assert.h
+-
+iostream
+-
+
