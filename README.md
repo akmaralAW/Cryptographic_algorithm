@@ -1,2 +1,2 @@
 # Cryptographic_algorithm
-Divide and Conquer method.
+Divide and Conquer method (QuickSort). 
